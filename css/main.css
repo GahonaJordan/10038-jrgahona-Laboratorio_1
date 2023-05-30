@@ -1,0 +1,66 @@
+/*body {
+  font-family: 'Titillium Web', sans-serif;
+}*/
+
+.navbar-brand {
+  font-size: 20px;
+  color: #000;
+  font-weight: bold;
+}
+
+#testimonial {
+  background: #f1f1f1;
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top: 40px;
+}
+
+footer {
+  background: url(../img/fondopie.jpg);
+  background-size: cover;
+  background-position: center;
+}
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.portada {
+    background: linear-gradient(90deg, rgba(0,36,35,0.8) 0%, rgba(14,65,8,0.8) 47%, rgba(0,36,35,0.8) 100%),url(../img/fondo1.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.logo {
+    height: 125px;
+    margin-top: 20px;
+}
+.img-principal{
+    height: 300px;
+
+}
+.img-lugares{
+    height: 120px;
+}
+
+.text-description {
+    letter-spacing: 2px;
+    font-family: sans-serif;    
+}
+
+.form-control {
+    background: transparent !important;
+    color: #fff !important;
+}
+
+a .fab {
+    color: #ffc;
+    font-size: 30px;
+    margin: 0 10px;
+}
+.sombras{
+  text-shadow: horizontal vertical blur color;
+
+}
